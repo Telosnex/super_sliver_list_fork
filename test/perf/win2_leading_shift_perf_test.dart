@@ -18,7 +18,7 @@ library;
 //   flutter test test/perf/win2_leading_shift_perf_test.dart
 import "package:flutter_test/flutter_test.dart";
 import "package:perf_tester/perf_tester.dart";
-import "package:super_sliver_list/super_sliver_list.dart";
+import "package:super_sliver_list_fork/super_sliver_list_fork.dart";
 
 import "widget_scenarios.dart";
 

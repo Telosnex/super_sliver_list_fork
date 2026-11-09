@@ -1,4 +1,12 @@
-## Unreleased
+## 0.5.0
+
+* First release as `super_sliver_list_fork`, the Telosnex fork of
+  [super_sliver_list](https://pub.dev/packages/super_sliver_list) 0.4.1.
+  Import `package:super_sliver_list_fork/super_sliver_list_fork.dart`.
+* Add `StickToTarget`, an initial scroll position, and `AnimationHandle` from
+  `animateToItem`.
+* Performance work for large lists, and fixes for leaks, scroll-correction
+  loops and zero-extent items.
 
 * Add cancellable descendant-header anchoring for forward vertical single-list viewports.
 * Add side-effect-free reveal offset estimation and cancellation for pending reveal operations.

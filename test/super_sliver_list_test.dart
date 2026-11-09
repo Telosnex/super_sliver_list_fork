@@ -6,7 +6,7 @@ import "package:flutter/rendering.dart";
 import "package:flutter_test/flutter_test.dart";
 import "package:logging/logging.dart";
 import "package:sliver_tools/sliver_tools.dart";
-import "package:super_sliver_list/super_sliver_list.dart";
+import "package:super_sliver_list_fork/super_sliver_list_fork.dart";
 
 import "package:test_api/src/backend/invoker.dart" as invoker;
 

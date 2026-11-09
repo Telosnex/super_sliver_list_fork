@@ -1,3 +1,21 @@
+# super_sliver_list_fork
+
+The Telosnex fork of [super_sliver_list](https://pub.dev/packages/super_sliver_list)
+0.4.1. It adds `StickToTarget`, an initial scroll position, header anchoring,
+cancellable reveals, and performance and leak fixes. See the
+[changelog](CHANGELOG.md). The public API is otherwise the same:
+
+```yaml
+dependencies:
+  super_sliver_list_fork: ^0.5.0
+```
+
+```dart
+import 'package:super_sliver_list_fork/super_sliver_list_fork.dart';
+```
+
+The rest of this README is from upstream.
+
 # SliverList and ListView - Supercharged
 
 > See the [live example](https://superlistapp.github.io/super_sliver_list/#/) of `SuperSliverList`.

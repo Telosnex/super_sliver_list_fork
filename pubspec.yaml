@@ -1,7 +1,8 @@
-name: super_sliver_list
-description: "Drop-in replacement for SliverList and ListView that can handle large lists with variable extents and jump/animate to specific items."
-version: 0.4.1
-homepage: https://github.com/superlistapp/super_sliver_list
+name: super_sliver_list_fork
+description: "Telosnex fork of super_sliver_list: SliverList and ListView for large lists with variable extents, plus stick-to-target, header anchoring and cancellable reveals."
+version: 0.5.0
+repository: https://github.com/Telosnex/super_sliver_list
+issue_tracker: https://github.com/Telosnex/super_sliver_list/issues
 
 environment:
   sdk: ">=3.11.0 <4.0.0"

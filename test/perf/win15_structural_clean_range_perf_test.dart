@@ -19,8 +19,8 @@ library;
 //   flutter test test/perf/win15_structural_clean_range_perf_test.dart
 import "package:flutter_test/flutter_test.dart";
 import "package:perf_tester/perf_tester.dart";
-import "package:super_sliver_list/src/extent_list.dart";
-import "package:super_sliver_list/super_sliver_list.dart";
+import "package:super_sliver_list_fork/src/extent_list.dart";
+import "package:super_sliver_list_fork/super_sliver_list_fork.dart";
 
 double _extentFor(int index) => 40.0 + (index * 13) % 80;
 
