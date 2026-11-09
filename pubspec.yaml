@@ -1,8 +1,8 @@
 name: super_sliver_list_fork
 description: "Telosnex fork of super_sliver_list: SliverList and ListView for large lists with variable extents, plus stick-to-target, header anchoring and cancellable reveals."
 version: 0.5.0
-repository: https://github.com/Telosnex/super_sliver_list
-issue_tracker: https://github.com/Telosnex/super_sliver_list/issues
+repository: https://github.com/Telosnex/super_sliver_list_fork
+issue_tracker: https://github.com/Telosnex/super_sliver_list_fork/issues
 
 environment:
   sdk: ">=3.11.0 <4.0.0"
