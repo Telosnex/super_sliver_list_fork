@@ -1,0 +1,10 @@
+# Upstream sources, checked daily by the Upstream watch workflow
+# (telosnex_ci_tools, lib/src/upstream.dart). Set `seen` to skip an update.
+sources:
+  # The repository this one is a fork of. The pin is the last upstream commit
+  # merged here: update it with each merge. Alert once the oldest unmerged
+  # commit is a week old.
+  - name: superlistapp/super_sliver_list
+    branch: https://github.com/superlistapp/super_sliver_list
+    pin: bfa3d5d0cf572c20b49b5eb9b4749f2e54e028a8
+    lag_days: 7
