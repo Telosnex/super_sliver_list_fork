@@ -1,6 +1,6 @@
-import "package:flutter/material.dart" show Colors;
-import "package:headless_widgets/headless_widgets.dart" hide Slider;
 import "package:headless_widgets/headless_widgets.dart" as w show Slider;
+import "package:headless_widgets/headless_widgets.dart" hide Slider;
+import "package:material_ui/material_ui.dart" show Colors;
 import "package:pixel_snap/widgets.dart";
 
 import "focus_indicator.dart";

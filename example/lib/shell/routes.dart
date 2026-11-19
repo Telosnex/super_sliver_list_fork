@@ -1,4 +1,4 @@
-import "package:flutter/material.dart";
+import "package:material_ui/material_ui.dart";
 
 import "../examples/item_list.dart";
 import "../examples/long_document.dart";

@@ -1,4 +1,4 @@
-import "package:flutter/material.dart" show Colors, Icons;
+import "package:material_ui/material_ui.dart" show Colors, Icons;
 import "package:pixel_snap/widgets.dart";
 
 import "../widgets/button.dart";

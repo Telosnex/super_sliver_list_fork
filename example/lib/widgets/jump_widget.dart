@@ -1,6 +1,6 @@
 import "dart:math" as math;
 
-import "package:flutter/material.dart" show Icons;
+import "package:material_ui/material_ui.dart" show Icons;
 import "package:pixel_snap/widgets.dart";
 
 import "../shell/sidebar.dart";

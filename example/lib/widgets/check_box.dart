@@ -1,5 +1,5 @@
-import "package:flutter/material.dart" show Colors, Icons;
 import "package:headless_widgets/headless_widgets.dart";
+import "package:material_ui/material_ui.dart" show Colors, Icons;
 import "package:pixel_snap/widgets.dart";
 
 import "focus_indicator.dart";

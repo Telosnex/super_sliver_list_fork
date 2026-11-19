@@ -1,5 +1,5 @@
-import "package:flutter/material.dart" show Colors;
 import "package:flutter/widgets.dart";
+import "package:material_ui/material_ui.dart" show Colors;
 import "package:super_sliver_list_fork/super_sliver_list_fork.dart";
 
 class LayoutInfoOverlay extends StatefulWidget {

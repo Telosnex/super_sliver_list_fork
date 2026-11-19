@@ -1,8 +1,8 @@
 import "package:context_plus/context_plus.dart";
 import "package:flutter/foundation.dart";
-import "package:flutter/material.dart"
-    show Colors, Scrollbar, ScrollbarTheme, ScrollbarThemeData, Typography;
 import "package:flutter/services.dart";
+import "package:material_ui/material_ui.dart"
+    show Colors, Scrollbar, ScrollbarTheme, ScrollbarThemeData, Typography;
 import "package:pixel_snap/widgets.dart";
 import "package:super_sliver_list_fork/super_sliver_list_fork.dart";
 
