@@ -1,3 +1,7 @@
+## 0.5.1
+
+- Flutter 3.50 compatability
+
 ## 0.5.0
 
 * First release as `super_sliver_list_fork`, the Telosnex fork of
